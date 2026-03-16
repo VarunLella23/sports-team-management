@@ -25,7 +25,7 @@ Utilizes an H2 In-Memory database mapped via Spring Data JPA. The data model dyn
 
 ### 1. Initial Dashboard
 The clean user interface ready for data entry.
-*(Add screenshot1-home.png here)*
+![Home Screen](Screenshot 2026-03-16 223102.png)
 
 ### 2. Dynamic Sport Selection
 When the user changes the sport in the dropdown menu, the form instantly adapts to ask for the correct statistics.
