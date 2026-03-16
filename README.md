@@ -29,15 +29,15 @@ The clean user interface ready for data entry.
 
 ### 2. Dynamic Sport Selection
 When the user changes the sport in the dropdown menu, the form instantly adapts to ask for the correct statistics.
-*(Add screenshot2-dynamic.png here)*
+![Home Screen](Screenshot2.png)
 
 ### 3. Adding a Player (Create & Read)
 Data is sent to the Java backend, saved in the database, and the roster table is instantly refreshed.
-*(Add screenshot3-added.png here)*
+![Home Screen](Screenshot3.png)
 
 ### 4. Updating Player Stats (Update & Delete)
 Users can update an existing player's lifetime statistics using their unique ID, or completely remove them from the database. 
-*(Add screenshot4-updated.png here)*
+![Home Screen](Screenshotteam.png)
 
 ---
 
